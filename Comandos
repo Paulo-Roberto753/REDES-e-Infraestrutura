@@ -1,0 +1,6 @@
+enable
+configure terminal 
+hodtname sw-02
+end 
+copy running-config strartup-config
+reload
